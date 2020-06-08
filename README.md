@@ -16,8 +16,8 @@ C:\Program Files (x86)\GOG Galaxy\Games\BloodRayne 2
 C:\Program Files (x86)\GOG Galaxy\Games\BloodRayne 2\system 
 
 # (Opional) To setup resolution manually go into your rayne.ini file edit these lines to your preferred resolution:
-* gamePIXY=1080
 * gamePIXX=1920
+* gamePIXY=1080
 
 6. Enjoy the game!
 gimalaji_blake
